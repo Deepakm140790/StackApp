@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StackApp</string>
+    <string name="bt_start_execution">Start execution</string>
+</resources>
